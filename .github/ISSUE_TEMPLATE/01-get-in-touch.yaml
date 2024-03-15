@@ -1,6 +1,6 @@
 name: Get in touch
 description: Use this form to get in touch with the project team.
-title: "[Short title of your request]"
+title: "Contact CoTEDI: "
 projects: 
   - cotedi-project/1
 labels: 
