@@ -4,7 +4,7 @@ title: "Contact CoTEDI: "
 projects: 
   - cotedi-project/1
 labels: 
-  - Get in touch
+  - question
 body:
   - type: textarea
     id: message
